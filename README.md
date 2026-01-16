@@ -105,9 +105,15 @@ This project demonstrates proficiency in several key database concepts:
     SELECT * FROM StaffInfo;
     ```
 
-## Authors
+---
 
-* Muhammad Zeeshan Islam
+## 👤 Author
+
+**[Muhammad Zeeshan Islam](https://github.com/zeeshan020dev)**  
+Co-Founder – Unicodrex | Technical Associate – Skill Sprint
+
+[![GitHub](https://img.shields.io/badge/GitHub-zeeshan020dev-black?logo=github)](https://github.com/zeeshan020dev)
+
 * Rana Ali Husnain
 * Imran Saleem
 * Umair Tahir
