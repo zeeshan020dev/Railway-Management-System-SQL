@@ -107,7 +107,7 @@ This project demonstrates proficiency in several key database concepts:
 
 ---
 
-## 👤 Author
+## 👤 Authors
 
 **[Muhammad Zeeshan Islam](https://github.com/zeeshan020dev)**  
 Co-Founder – Unicodrex | Technical Associate – Skill Sprint
