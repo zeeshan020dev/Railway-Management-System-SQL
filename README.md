@@ -109,11 +109,15 @@ This project demonstrates proficiency in several key database concepts:
 
 ## 👤 Authors
 
-**[Muhammad Zeeshan Islam](https://github.com/zeeshan020dev)**  
-Co-Founder – Unicodrex | Technical Associate – Skill Sprint
+**[Muhammad Zeeshan Islam](https://github.com/zeeshan020dev)**
 
 [![GitHub](https://img.shields.io/badge/GitHub-zeeshan020dev-black?logo=github)](https://github.com/zeeshan020dev)
 
-* Rana Ali Husnain
+**[Rana Ali Husnain](https://github.com/AliHusnain05)**
+
+[![GitHub](https://img.shields.io/badge/GitHub-AliHusnain05-black?logo=github)](https://github.com/AliHusnain05)
+
+---
+
 * Imran Saleem
 * Umair Tahir
