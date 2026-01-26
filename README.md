@@ -119,5 +119,4 @@ This project demonstrates proficiency in several key database concepts:
 
 ---
 
-* Imran Saleem
 * Umair Tahir
