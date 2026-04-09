@@ -111,7 +111,7 @@ This project demonstrates proficiency in several key database concepts:
 
 **[Muhammad Zeeshan Islam](https://github.com/zeeshan020dev)**
 
-Co-Founder – [Unicodrex](https://www.linkedin.com/company/unicodrex/) | Technical Lead – [Skill Sprint](https://www.linkedin.com/company/skill-sprint-pk/) | Trainee – CEGA
+Co-Founder – [Unicodrex](https://www.linkedin.com/company/unicodrex/) | Technical Lead – [Skill Sprint](https://www.linkedin.com/company/skill-sprint-pk/) | Trainee – [CEGA](https://www.linkedin.com/company/cegaofficialpk/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-zeeshan020dev-black?logo=github)](https://github.com/zeeshan020dev)
 
